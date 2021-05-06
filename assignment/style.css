@@ -36,8 +36,8 @@ h1 {
 img {
   margin-top: 120px;
   width: 300px;
-  padding:1px;
-  border:2px solid #021a40;
+  padding: 1px;
+  border: 2px solid #021a40;
 }
 
 .flex-container {
@@ -69,4 +69,5 @@ img {
 p {
   font-size: 1.3rem;
   font-style: italic;
+  color: #DCDCDC;
 }
